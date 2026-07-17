@@ -11,7 +11,7 @@ title                    : "Patrick Chang"
 title_separator          : "-"
 name                     : &name "Patrick Chang"
 description              : &description "Patrick Chang — Postdoctoral Researcher, Oxford-Man Institute, University of Oxford"
-url                      : https://chnpat005.github.io # the base hostname & protocol for your site
+url                      : https://patrickchang.net # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CHNPAT005/CHNPAT005.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
