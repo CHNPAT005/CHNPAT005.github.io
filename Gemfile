@@ -1,9 +1,14 @@
-# Local-preview Gemfile (modern Jekyll 4; Ruby 4.0-compatible).
-# Deployment uses GitHub Pages' own server-side build, not this file.
-# The original github-pages Gemfile is kept as Gemfile.github-pages.
+# Jekyll 4 Gemfile. GitHub Actions builds the site with THIS file
+# (.github/workflows/pages.yml); the original github-pages Gemfile is kept
+# as Gemfile.github-pages for reference.
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
+
+# Pin Sass: newer Dart Sass errors on the theme's legacy SCSS (@import etc.);
+# these versions only warn and build cleanly. Keeps local and CI identical.
+gem "jekyll-sass-converter", "3.1.0"
+gem "sass-embedded", "1.101.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
