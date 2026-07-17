@@ -1,0 +1,4 @@
+# main navigation links (top of the site)
+main:
+  - title: "Research"
+    url: /research/
