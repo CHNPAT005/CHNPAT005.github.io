@@ -42,6 +42,9 @@ redirect_from:
 
 <div class="research-subheading">Revise and Resubmit</div>
 <ol class="research-list">
+  <li>Álvaro Cartea, Patrick Chang, Rob Graumans (2025). Anonymity, Signaling, and Collusion in Limit Order Books. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5080700">link</a>
+    <div class="research-note"><span class="research-note-label">Revise and resubmit:</span> <span class="research-note-venue">Management Science</span></div>
+  </li>
   <li>Álvaro Cartea, Patrick Chang, Gabriel García-Arenas (2023). Spoofing and Manipulating Order Books with Learning Algorithms. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639959">link</a>
     <div class="research-note"><span class="research-note-label">Revise and resubmit:</span> <span class="research-note-venue">Operations Research</span></div>
   </li>
@@ -60,7 +63,6 @@ redirect_from:
 <ol class="research-list">
   <li>Álvaro Cartea, Patrick Chang, Nan Chen, Mingyue Zhong (2026). AI Bubbles with Large Language Models. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6426761">link</a></li>
   <li>Jonathan Brogaard, Álvaro Cartea, Patrick Chang, Rob Graumans (2025). The Lasting Impact of Flickering Quotes. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5963035">link</a></li>
-  <li>Álvaro Cartea, Patrick Chang, Rob Graumans (2025). Anonymity, Signaling, and Collusion in Limit Order Books. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5080700">link</a></li>
   <li>Álvaro Cartea, Patrick Chang, José Penalva, Harrison Waldon (2022). The Algorithmic Learning Equations: Evolving Strategies in Dynamic Games. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4175239">link</a></li>
 </ol>
 
