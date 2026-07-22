@@ -82,6 +82,7 @@ redirect_from:
       <a href="mailto:patrick.chang@omi.ox.ac.uk"><i class="fas fa-envelope"></i>Email</a>
       <a href="https://github.com/CHNPAT005"><i class="fab fa-github"></i>GitHub</a>
       <a href="https://www.linkedin.com/in/patrick-chang-976120170"><i class="fab fa-linkedin"></i>LinkedIn</a>
+      <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5235387"><i class="ai ai-ssrn"></i>SSRN</a>
       <a href="{{ '/files/cv.pdf' | relative_url }}"><i class="fas fa-file-alt"></i>CV</a>
     </div>
   </div>
