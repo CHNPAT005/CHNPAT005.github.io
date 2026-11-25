@@ -45,9 +45,6 @@ redirect_from:
   <li>Álvaro Cartea, Patrick Chang, Rob Graumans (2025). Anonymity, Signaling, and Collusion in Limit Order Books. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5080700">link</a>
     <div class="research-note"><span class="research-note-label">Revise and resubmit:</span> <span class="research-note-venue">Management Science</span></div>
   </li>
-  <li>Álvaro Cartea, Patrick Chang, Gabriel García-Arenas (2023). Spoofing and Manipulating Order Books with Learning Algorithms. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639959">link</a>
-    <div class="research-note"><span class="research-note-label">Revise and resubmit:</span> <span class="research-note-venue">Operations Research</span></div>
-  </li>
   <li>Álvaro Cartea, Patrick Chang, José Penalva (2022). Algorithmic Collusion in Electronic Markets: The Impact of Tick Size. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105954">link</a>
     <div class="research-note"><span class="research-note-label">Revise and resubmit:</span> <span class="research-note-venue">Management Science</span></div>
   </li>
@@ -55,6 +52,7 @@ redirect_from:
 
 <div class="research-subheading">Published</div>
 <ol class="research-list">
+  <li>Álvaro Cartea, Patrick Chang, Gabriel García-Arenas (forthcoming). Spoofing and Manipulating Order Books with Learning Algorithms. <span class="venue">Operations Research.</span> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639959">link</a></li>
   <li>Álvaro Cartea, Patrick Chang, José Penalva, Harrison Waldon (2026). Algorithmic Collusion and a Folk Theorem from Learning with Bounded Rationality. <span class="venue">Games and Economic Behavior.</span> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4293831">link</a></li>
   <li>Álvaro Cartea, Patrick Chang, Mateusz Mroczka, Roel Oomen (2022). AI-Driven Liquidity Provision in OTC Financial Markets. <span class="venue">Quantitative Finance.</span> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4111152">link</a></li>
 </ol>
@@ -68,8 +66,8 @@ redirect_from:
 
 <div class="research-subheading">Work in Progress</div>
 <ol class="research-list">
-  <li>Álvaro Cartea, Patrick Chang, José Penalva. Entry Deterrence by Algorithmic Pricing.</li>
-  <li>Jonathan Brogaard, Álvaro Cartea, Patrick Chang, Rob Graumans. The Lifetime of Trading Algorithms.</li>
+  <li>Álvaro Cartea, Patrick Chang, José Penalva, Gerry Tsoukalas. Entry Deterrence by Algorithmic Pricing.</li>
+  <li>Jonathan Brogaard, Álvaro Cartea, Patrick Chang, Rob Graumans. The Anatomy of a Trading Firm.</li>
 </ol>
 
 <div class="research-subheading">Other Publications (Pre-DPhil)</div>
